@@ -14,7 +14,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bastiansepulveda/mat281_portfolio/master?urlpath=lab)
 
-* __John Titor__ : [](https://www.linkedin.com/in/williamhgates/)
+* __Bastián Sepúlveda__ : [](https://github.com/bastiansepulveda/)
 
 * __Repositorio Curso__: [GitHub](https://github.com/aLoNsolml/mat281_2019S2)
 
